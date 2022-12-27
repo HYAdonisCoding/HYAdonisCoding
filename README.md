@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HYAdonisCoding
 - 👀 I’m interested in read swiming and trail
-- 🌱 I’m currently learning Swif Swif他UI Java Python
+- 🌱 I’m currently learning Swif SwiftUI Java Python
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me 296786475@qq.com
 
